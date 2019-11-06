@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: '100 Days of Code',
+  subtitle: 'Follow along as i mess about with code, currently Gatsby.',
+  copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -25,15 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'JT McHorse',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I like bikes',
     contacts: {
-      email: '',
+      email: 'jmchorse@gmail.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'jmchorse',
+      github: 'jtmchorse',
       rss: '',
       vkontakte: '',
       linkedin: '#',
