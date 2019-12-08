@@ -10,7 +10,7 @@ tags:
   - "Wordpress"
 socialImage: ""
 title: Day 41
-date: "2019-12-3"
+date: "2019-12-03"
 description: "Udemy -Gatsby JS & Wordpress" 
 time: 
 ---

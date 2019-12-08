@@ -9,7 +9,7 @@ tags:
   - "Gatsby"
 socialImage: ""
 title: Day 40
-date: "2019-12-1"
+date: "2019-12-01"
 description: "Udemy - Gatsby Masterclass Day 18 - Shopping cart in the header"
 time: 
 ---
