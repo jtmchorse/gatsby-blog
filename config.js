@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://jtmchorse.netlify.com',
   pathPrefix: '/',
   title: '100 Days of Code',
   subtitle: 'Follow along as i mess about with code, currently Gatsby.',
