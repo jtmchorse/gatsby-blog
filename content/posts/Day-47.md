@@ -12,7 +12,7 @@ socialImage: ""
 title: Day 47
 date: "2019-12-13"
 description: "Udemy -Gatsby JS & Wordpress - Day 7 - Menu Filtering"
-time:.5 
+time:".5"
 ---
 
 ### Menu filtering
